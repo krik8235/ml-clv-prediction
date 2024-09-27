@@ -1,4 +1,4 @@
-# ML-Driven-CLV-Prediction
+# Predict customer lifetime value of e-commerce customers
 
 This repository contains the code and analysis for a machine learning project aimed at predicting Customer Lifetime Value (CLV) in an e-commerce context. The project utilizes a range of machine learning models to forecast the total revenue a business can expect from a customer throughout their relationship.
 
